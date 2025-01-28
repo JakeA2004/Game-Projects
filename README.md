@@ -18,6 +18,10 @@
 
 <h1>Game Projects</h1>
 <p>My projects created for my university degree as well as my entry for Global Games Jam 2025</p>
+<h2> Locked Course</h2>
+<img src="portfolio1.png" alt="Game">
+<p>An puzzle-action game set in an alien spaceship. The player explores abandonned facilities, collecting weapons like the grappling hook and portal gun to find a way home. My role was UI programming and Lead Designer for gameplay and levels Made in Unreal Engine 5. </p>
+
 
 </body>
 </html>
