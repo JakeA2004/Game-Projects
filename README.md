@@ -10,8 +10,9 @@
 
   
 <h1>Student at Northumbria University</h1>
+<p>Experienced in...</p>
 <ul>
-    <li>Experienced in...</li>
+    Experienced in...</li>
     <li>Java Programming</li>
     <li>Unreal Engine 5 Blueprint Scripting </li>
     <li>GameMaker Language</li>
