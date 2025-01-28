@@ -1,17 +1,7 @@
 <html>
 <head>
 <header>Jake Allison Portfolio</header>
-<link rel="stylesheet" href="portfolioStyling.css">
-<style>
-        .scroll-container {
-            display: flex;
-            justify-content: space-around;
-        }
-        .scroll-container img {
-            max-width: 30%; /* Adjust the size of the images */
-        }
-</style>
-  
+<link rel="stylesheet" href="portfolioStyling.css">  
 </head>
 <body>
 <p>Email: jakeallison8@hotmail.co.uk</p>
