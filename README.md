@@ -14,7 +14,7 @@
     <li>Unreal Engine 5 Blueprint Scripting </li>
     <li>GameMaker Language</li>
     <li>HTML and Web Programming</li>
-<ul>
+</ul>
 
 <h1>Game Projects</h1>
 <p>Below are the past projects I have worked on.</p>
