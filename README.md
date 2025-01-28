@@ -2,6 +2,19 @@
 <head>
 <header>Jake Allison Portfolio</header>
 <link rel="stylesheet" href="https://raw.githubusercontent.com/JakeA2004/Game-Projects/refs/heads/main/style.css">  
+<style>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
 </head>
 <body>
 <p>Email: jakeallison8@hotmail.co.uk</p>
@@ -23,6 +36,17 @@
   <img src="LC1.png" alt="LC02">
   <img src="LC2.png" alt="LC02">
   <img src="LC3.png" alt="LC02">
+</div>
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
 </div>
 
 
