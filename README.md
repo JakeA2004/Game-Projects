@@ -10,15 +10,16 @@
 
   
 <h1>Student at Northumbria University</h1>
-
-<p>Experienced in...</p>
-<p>Java Programming</p>
-<p>Unreal Engine 5 Blueprint Scripting </p>
-<p>GameMaker Language</p>
-<p>HTML and Web Programming</p>
+<ul>
+    <li>Experienced in...</li>
+    <li>Java Programming</li>
+    <li>Unreal Engine 5 Blueprint Scripting </li>
+    <li>GameMaker Language</li>
+    <li>HTML and Web Programming</li>
+<ul>
 
 <h1>Game Projects</h1>
-<p>My projects created for my university degree as well as my entry for Global Games Jam 2025</p>
+<p>Below are the past projects I have worked on.</p>
 <h2> Locked Course</h2>
 <img src="Portfolio1.png" alt="Locked Course">
 <p>A puzzle-action game set in an alien spaceship. The player explores abandoned facilities, collecting weapons like the grappling hook and portal gun in order to find a way home. I took the role of Lead Designer for gameplay, levels and user interface. Developed for Team Project and Professionalism module, collaborating with 5 other students. Engine Used: Unreal Engine 5 </p>
