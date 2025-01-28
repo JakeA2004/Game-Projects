@@ -19,7 +19,7 @@
 <h1>Game Projects</h1>
 <p>My projects created for my university degree as well as my entry for Global Games Jam 2025</p>
 
-<div class="scroll-container">
+<div class="image-row">
   <img src="LC1.png" alt="LC02">
   <img src="LC2.png" alt="LC02">
   <img src="LC3.png" alt="LC02">
