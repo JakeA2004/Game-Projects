@@ -23,10 +23,9 @@
   <img src="LC1.png" alt="LC02">
   <img src="LC2.png" alt="LC02">
   <img src="LC3.png" alt="LC02">
-  <img src="LC4.png" alt="LC02">
 </div>
 
-<img src="notHappy.PNG" alt="notDisplaying">
+
 </body>
 </html>
 
