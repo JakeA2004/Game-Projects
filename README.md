@@ -14,6 +14,9 @@
   clear: both;
   display: table;
 }
+h1{
+  color
+}
 </style>
 </head>
 <body>
@@ -39,13 +42,13 @@
 </div>
 <div class="row">
   <div class="column">
-    <img src="MW01.png" alt="Snow" style="width:100%">
+    <img src="MW01.png" alt="Snow" style="width:33%">
   </div>
   <div class="column">
-    <img src="MW02.png" alt="Forest" style="width:100%">
+    <img src="MW02.png" alt="Forest" style="width:33%">
   </div>
   <div class="column">
-    <img src="MW03.png" alt="Mountains" style="width:100%">
+    <img src="MW03.png" alt="Mountains" style="width:33%">
   </div>
 </div>
 
