@@ -1,7 +1,7 @@
 <html>
 <head>
 <header>Jake Allison Portfolio</header>
-<link rel="stylesheet" href="style.css">  
+<link rel="stylesheet" href="https://raw.githubusercontent.com/JakeA2004/Game-Projects/refs/heads/main/style.css">  
 </head>
 <body>
 <p>Email: jakeallison8@hotmail.co.uk</p>
