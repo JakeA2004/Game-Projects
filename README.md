@@ -20,10 +20,10 @@
 <p>My projects created for my university degree as well as my entry for Global Games Jam 2025</p>
 
 <div class="scroll-container">
-  <img src="LC02 (1).PNG" alt="LC02">
-  <img src="LC02 (2).PNG" alt="LC02">
-  <img src="LC02 (3).PNG" alt="LC02 Lights">
-  <img src="LC02 (4).PNG" alt="LC02">
+  <img src="LC1.PNG" alt="LC02">
+  <img src="LC2.PNG" alt="LC02">
+  <img src="LC3.PNG" alt="LC02">
+  <img src="LC4.PNG" alt="LC02">
 </div>
 
 <img src="notHappy.PNG" alt="notDisplaying">
