@@ -8,3 +8,12 @@ div.scroll-container {
 div.scroll-container img {
   padding: 10px;
 }
+
+.scroll-container {
+            display: flex;
+            justify-content: space-around;
+}
+.scroll-container img {
+            max-width: 30%; /* Adjust the size of the images */
+}
+
