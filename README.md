@@ -5,8 +5,8 @@
 </head>
 <body>
 <p>Email: jakeallison8@hotmail.co.uk</p>
-<p>LinkedIn:</p>
-<p>Indeed:</p>
+<p>LinkedIn: https://uk.linkedin.com/in/jake-allison-8a9453297?trk=people-guest_people_search-card</p>
+
   
 <h1>Student at Northumbria University</h1>
 
