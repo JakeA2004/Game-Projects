@@ -6,13 +6,10 @@
 <body>
 <p>Email: jakeallison8@hotmail.co.uk</p>
 <a href="https://uk.linkedin.com/in/jake-allison-8a9453297?trk=people-guest_people_search-card">LinkedIn</a>
-
-
-  
 <h1>Student at Northumbria University</h1>
+
 <p>Experienced in...</p>
 <ul>
-    Experienced in...</li>
     <li>Java Programming</li>
     <li>Unreal Engine 5 Blueprint Scripting </li>
     <li>GameMaker Language</li>
