@@ -20,7 +20,7 @@
 <p>My projects created for my university degree as well as my entry for Global Games Jam 2025</p>
 <h2> Locked Course</h2>
 <img src="Portfolio1.png" alt="Locked Course">
-<p>A puzzle-action game set in an alien spaceship. The player explores abandonned facilities, collecting weapons like the grappling hook and portal gun in order to find a way home. I took the role of Lead Designer for gameplay, levels and user interface. Developed for Team Project and Professionalism module, collaborating with 5 other students. Engine Used: Unreal Engine 5 </p>
+<p>A puzzle-action game set in an alien spaceship. The player explores abandoned facilities, collecting weapons like the grappling hook and portal gun in order to find a way home. I took the role of Lead Designer for gameplay, levels and user interface. Developed for Team Project and Professionalism module, collaborating with 5 other students. Engine Used: Unreal Engine 5 </p>
 
 <h2> Mariana Wrench</h2>
 <img src="Portfolio2.png" alt="Mariana Wrench">
