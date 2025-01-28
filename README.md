@@ -10,9 +10,10 @@
 
 <p>Experienced in...</p>
 <ul>
-    <li>Java Programming</li>
+    <li>Java</li>
     <li>Unreal Engine 5 Blueprint Scripting </li>
-    <li>GameMaker Language</li>
+    <li>C++</li>
+    <li>GameMaker Language (GML)</li>
     <li>HTML and Web Programming</li>
 </ul>
 
