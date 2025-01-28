@@ -5,5 +5,8 @@
 .image-row img {
     max-width: 30%; /* Adjust the size of the images */
 }
+body{
+    background-color: yellow;
+}
 
 
