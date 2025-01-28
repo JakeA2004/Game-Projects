@@ -1,7 +1,7 @@
 <html>
 <head>
 <header>Jake Allison Portfolio</header>
-<link rel="stylesheet" href="portfolioStyling.css">  
+<link rel="stylesheet" href="style.css">  
 </head>
 <body>
 <p>Email: jakeallison8@hotmail.co.uk</p>
