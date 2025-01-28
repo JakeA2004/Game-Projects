@@ -8,7 +8,7 @@
 
 
 <p>This is a paragraph.</p>
-<img src="notHappy.png" alt="notDisplaying">
+<img src="notHappy.PNG" alt="notDisplaying">
 </body>
 </html>
 
