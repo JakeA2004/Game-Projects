@@ -34,7 +34,7 @@
 
 <h2> Die, Egesis!</h2>
 <img src="portfolio4.png" alt="Die, Egesis!">
-<p>A Turn-based RPG I developed for my final year to experiment with diegetic and non-diegetic interfaces. You play as a space explorer and must defeat the Egesi aliens, gain experience points to level up and eventually defeat the boss, the Egesi Queen. With Diegesis turned on, several HUD elements are altered like ammo being displayed on the back of your gun and helmet holograms displaying player information. Engine Used: GameMaker</p>
+<p>A Turn-based RPG created to experiment with diegetic and non-diegetic interfaces. You play as a space explorer and must defeat the Egesi aliens, gain experience points to level up and eventually defeat the boss, the Egesi Queen. With Diegesis turned on, several HUD elements are altered like ammo being displayed on the back of your gun and helmet holograms displaying player information. Created for final year project. Engine Used: GameMaker</p>
 
 </body>
 </html>
