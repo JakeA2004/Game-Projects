@@ -10,7 +10,7 @@ body {
     background-color: yellow; /* Test if CSS is loading */
 }
 
-h1{
+h1 {
     background-color: #41BE94
     text-align: center;
     font-weight: bold;
