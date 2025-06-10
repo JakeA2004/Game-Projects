@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="main/style.css">  
 </head>
 <body>
-<h1>Jake Allison Portfolio</h1>
+<h1 background-color: #41BE94>Jake Allison Portfolio</h1>
 <p>jakeallison8@hotmail.co.uk</p>
 <p><a href="https://uk.linkedin.com/in/jake-allison-8a9453297?trk=people-guest_people_search-card">LinkedIn</a> | <a href="https://jake-allison.itch.io/"> itch.io</a></p>
 
