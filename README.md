@@ -4,8 +4,7 @@
 </head>
 <body>
 <h1>Jake Allison Portfolio</h1>
-    
-<p>Email: jakeallison8@hotmail.co.uk</p>
+<p>jakeallison8@hotmail.co.uk</p>
 <p><a href="https://uk.linkedin.com/in/jake-allison-8a9453297?trk=people-guest_people_search-card">LinkedIn</a> | <a href="https://jake-allison.itch.io/"> itch.io</a></p>
 
 <img src="logos2.png" alt="Experienced in...">
