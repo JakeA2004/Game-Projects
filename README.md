@@ -32,6 +32,9 @@
 <img src="Portfolio3.png" alt="Tomb of Dread">
 <p>A dungeon crawler in which the player must collect three keys within a randomly generated dungeon. The player fights enemies and collects power-ups to increase their health, stamina, attack power and defence. Developed for the Software Engineering Practice module in collaboration with 3 other students. Engine Used: Unreal Engine 5</p>
 
+<h2> Die, Egesis!</h2>
+<img src="Portfolio4.png" alt="Die, Egesis!">
+<p>A Turn-based RPG I developed for my final year to experiment with diegetic and non-diegetic interfaces. You play as a space explorer and must defeat the Egesi aliens, gain experience points to level up and eventually defeat the boss, the Egesi Queen. With Diegesis turned on, several HUD elements are altered like ammo being displayed on the back of your gun and helmet holograms displaying player information. Engine Used: GameMaker</p>
 
 </body>
 </html>
