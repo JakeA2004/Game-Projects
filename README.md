@@ -1,12 +1,11 @@
 <html>
 <head>
-<header>Jake Allison Portfolio</header>
 <link rel="stylesheet" href="https://raw.githubusercontent.com/JakeA2004/Game-Projects/refs/heads/main/style.css">  
 </head>
 <body>
 <p>Email: jakeallison8@hotmail.co.uk</p>
 <a href="https://uk.linkedin.com/in/jake-allison-8a9453297?trk=people-guest_people_search-card">LinkedIn</a>
-<h1>Northumbria University</h1>
+<h1>Jake Allison Portfolio</h1>
 
 <img src="logos2.png" alt="Experienced in...">
 <p>Experienced in...</p>
