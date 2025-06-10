@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Jake Allison Portfolio</title>
 <link rel="stylesheet" href="main/style.css">  
 </head>
 <body>
