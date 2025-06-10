@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://raw.githubusercontent.com/JakeA2004/Game-Projects/refs/heads/main/style.css">  
+<link rel="stylesheet" href="main/style.css">  
 </head>
 <body>
 <h1>Jake Allison Portfolio</h1>
