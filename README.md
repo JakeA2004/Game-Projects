@@ -15,7 +15,7 @@
     <li>C++</li>
     <li>GameMaker Language (GML)</li>
     <li>HTML and Web Programming</li>
-    <li>Python</li>
+    <li>Python </li>
 </ul>
 
 <h1>Game Projects</h1>
