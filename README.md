@@ -19,7 +19,7 @@
 </ul>
 
 <h1>Game Projects</h1>
-<p>Below are the past projects I have worked on.</p>
+
 <h2> Locked Course</h2>
 <img src="Portfolio1.png" alt="Locked Course">
 <p>A puzzle-action game set in an alien spaceship. The player explores abandoned facilities, collecting weapons like the grappling hook and portal gun in order to find a way home. I took the role of Lead Designer for gameplay, levels and user interface. Developed for Team Project and Professionalism module, collaborating with 5 other students. Engine Used: Unreal Engine 5 </p>
@@ -39,6 +39,12 @@
 <h2> Die, Egesis!</h2>
 <img src="portfolio4.png" alt="Die, Egesis!">
 <p>A Turn-based RPG created to experiment with diegetic and non-diegetic interfaces. You play as a space explorer and must defeat the Egesi aliens, gain experience points to level up and eventually defeat the boss, the Egesi Queen. With Diegesis turned on, several HUD elements are altered like ammo being displayed on the back of your gun and helmet holograms displaying player information. Created for final year project. Engine Used: GameMaker</p>
+
+<h1>Other Projects</h1>
+
+<h2>Figma Smartphone UI</h2>
+<img src="Portfolio1.png" alt="Locked Course">
+<p>Used Figma to create a high-fidelity prototype for a smartphone puzzle game based around guessing grocery prices targeted towards young adults and teenagers. </p>
 
 </body>
 </html>
