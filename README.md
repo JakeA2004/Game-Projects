@@ -43,7 +43,7 @@
 <h1>Other Projects</h1>
 
 <h2>Figma Smartphone UI</h2>
-<img src="Portfolio6.png" alt="Figma Smartphone UI">
+<img src="portfolio6.png" alt="Figma Smartphone UI">
 <p>Used Figma to create a high-fidelity prototype for a smartphone puzzle game. Viewable at: https://www.figma.com/design/PsPvkmdRxFwMGTfv79IBp8/High-Fidelity-Prototype--KF5003-?node-id=0-1&p=f </p>
 
 </body>
